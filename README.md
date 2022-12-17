@@ -3,11 +3,11 @@
 ## ⚙Screenshots 專案畫面
 
 #### 首頁
-![Minion](https://github.com/JasmineKe1121/Movie_list/blob/main/public/screenshots/screenshot1.png)
+![Minion](https://github.com/JasmineKe1121/Restaurant_list/blob/main/public/screenshots/screenshot_r1.png)
 #### 個別電影資料
-![Minion](https://github.com/JasmineKe1121/Movie_list/blob/main/public/screenshots/screenshot2.png)
+![Minion](https://github.com/JasmineKe1121/Restaurant_list/blob/main/public/screenshots/screenshot_r2.png)
 #### 搜尋特定電影
-![Minion](https://github.com/JasmineKe1121/Movie_list/blob/main/public/screenshots/screenshot3.png)
+![Minion](https://github.com/JasmineKe1121/Restaurant_list/blob/main/public/screenshots/screenshot_r3.png)
 
 ## 📄Overview 簡介
 餐廳清單網站，網站上可以看到各家我喜歡的餐廳，以及可以在搜尋欄依關鍵字或類別搜尋特定的餐廳。
