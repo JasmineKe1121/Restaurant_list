@@ -4,9 +4,9 @@
 
 #### 首頁
 ![Minion](https://github.com/JasmineKe1121/Restaurant_list/blob/main/public/screenshots/screenshot_r1.png)
-#### 個別電影資料
+#### 個別餐廳資料
 ![Minion](https://github.com/JasmineKe1121/Restaurant_list/blob/main/public/screenshots/screenshot_r2.png)
-#### 搜尋特定電影
+#### 搜尋特定餐廳
 ![Minion](https://github.com/JasmineKe1121/Restaurant_list/blob/main/public/screenshots/screenshot_r3.png)
 
 ## 📄Overview 簡介
